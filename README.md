@@ -10,5 +10,6 @@ Dark-first design. Toggle theme using the top-right button. Theme preference is 
 Open the page in Chrome/Edge → Print → Save as PDF. The layout and print stylesheet are optimized for A4.
 
 ## Replace placeholders
-- `assets/profile-placeholder.png` — replace with your photo.
-- `assets/qr-placeholder.png` — replace with QR code image linking to your GitHub repo.
+- `assets/profile-placeholder.png` 
+- `assets/qr-placeholder.png` 
+
