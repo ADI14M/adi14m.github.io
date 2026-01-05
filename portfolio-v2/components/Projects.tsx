@@ -10,7 +10,7 @@ const projects = [
         title: "AI Teacher Platform",
         description: "An AI-powered educational platform featuring interactive AI avatars for personalized lessons and course management.",
         tags: ["React", "Python", "AI", "Education"],
-        links: { github: "https://github.com/ADI14M/ai-teacher-platform", demo: "#" },
+        links: { github: "https://github.com/ADI14M/ai-teacher-platform", demo: "https://ai-teacher-platform-one.vercel.app/login" },
     },
     {
         title: "Real-Time Big Data System",
