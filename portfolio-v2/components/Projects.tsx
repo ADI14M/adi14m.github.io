@@ -22,13 +22,13 @@ const projects = [
         title: "Stock Prediction & Sentiment Tool",
         description: "Built LSTM model with ~75% accuracy. Integrated FinBERT for financial report signal extraction and Twitter sentiment analysis.",
         tags: ["LSTM", "HuggingFace", "FinBERT", "Python"],
-        links: { github: "#", demo: "#" },
+        links: { github: "https://github.com/ADI14M/Gen-AI-ML-based-stock-market-prediction", demo: "#" },
     },
     {
         title: "LogLLM Anomaly Detection",
         description: "Embedded parsed logs into ChromaDB and trained LSTM for sequence anomaly detection using LangChain retrieval pipelines.",
         tags: ["LangChain", "ChromaDB", "LSTM", "LLM"],
-        links: { github: "#", demo: "#" },
+        links: { github: "https://github.com/ADI14M/LogLLM", demo: "#" },
     },
     {
         title: "d-chat (Decentralized Chat)",
