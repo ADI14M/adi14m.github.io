@@ -1,5 +1,7 @@
 # Aditya M — Resume (HTML/CSS)
 
+https://adi14m-github-io.vercel.app/
+
 ## Preview
 Open `index.html` in a browser.
 
@@ -12,4 +14,5 @@ Open the page in Chrome/Edge → Print → Save as PDF. The layout and print sty
 ## Replace placeholders
 - `assets/profile-placeholder.png` 
 - `assets/qr-placeholder.png` 
+
 
